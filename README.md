@@ -171,10 +171,3 @@ terraform.rc
 
 ---
 
-## Notes / Lessons Learned
-
-*(A place to jot down anything that tripped you up or clicked for you — great material to talk about in interviews.)*
-
-- 
-- 
-- 
